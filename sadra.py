@@ -1,0 +1,2 @@
+a = 'sadra'
+print(a)
