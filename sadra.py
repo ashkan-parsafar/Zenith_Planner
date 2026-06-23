@@ -1,2 +1,0 @@
-a = 'sadra'
-print(a)
