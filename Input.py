@@ -8,7 +8,7 @@ class Input:
             input_work = input('Enter your work you want do it to day :')  # a b c d
 
             self.all_works.append(input_work)
-            self.countinue()
+            return self.countinue()
 
     def countinue(self):
         desire_to_continue = input('Do you want to countinue?(yes/no)')
